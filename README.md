@@ -1,3 +1,4 @@
+<h2>Hotel Reservation API</h2>
 Why use this API?
 
 Our REST API is simple, easy to use and ideal for the programmatic sending of data, regardless of volume. The API is designed using REST standards over HTTP and accepts JSON data.
